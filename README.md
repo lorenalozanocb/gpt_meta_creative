@@ -44,14 +44,6 @@ This GPT is ideal for:
 
 ---
 
-## ✨ Built by
-
-**Lorena Lozano**  
-Ad Strategist | Creative Systems @ DAC  
-[LinkedIn](https://www.linkedin.com/in/lorenalozano/) • [Email](mailto:llozano@dacgroup.com)
-
----
-
 ## 💬 Feedback
 
 Spotted a bug or have a feature idea?  
