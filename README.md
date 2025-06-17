@@ -1,24 +1,66 @@
-# GPT Meta Ads Creative Updater
+# 🧠 Meta Ads Creative Updater GPT
 
-**Simplify Meta ad updates by using a single CSV.**  
-This tool leverages GPT to automatically generate, refresh, and optimize Meta (Facebook) ad creatives using content provided in a simple CSV file. Designed to streamline your ad workflows with minimal setup and maximum efficiency.
+A custom GPT designed to simplify and optimize your Meta Ads creative management process. Whether you're a media buyer, ad strategist, or performance marketer, **Meta Ads Creative Updater GPT** helps you update, generate, and structure creatives for maximum efficiency and performance.
 
----
-
-## 🚀 Key Features
-
-- 🧠 GPT-powered creative updates for Meta Ads
-- 📄 CSV-based input/output for easy integration with your ad operations
-- ✍️ Automatically rewrites ad headlines, primary text, and calls-to-action
-- 🔄 Ideal for bulk creative refreshes and campaign testing
-- 🧰 Minimal setup required – just plug in your CSV and go!
+👉 [Try it now on ChatGPT](https://chatgpt.com/g/g-68489ee8cbfc8191bf350252a5fb352e-meta-ads-creative-updater)
 
 ---
 
-## 📦 Installation
+## 🚀 What It Does
 
-Clone the repo:
+This GPT is built specifically to help you:
 
-```bash
-git clone https://github.com/yourusername/gpt_meta_ads_creative_updater.git
-cd gpt_meta_ads_creative_updater
+- ✅ Update multiple ad creatives quickly
+- 🎯 Apply specific ratios (4:5, 9:16) for optimal placements
+- 📦 Package creatives for Meta Ads Manager import
+- 📋 Format naming conventions consistently (e.g., `[Brand]_[Product]_[Angle]`)
+- 📁 Streamline folder and file structures
+
+Whether you're managing UGC videos, statics, or variant batches — this GPT can handle it all with just a few prompts.
+
+---
+
+## 🛠️ Use Cases
+
+- **Creative Refreshes**: Automate the updating of ad elements without touching design tools.
+- **Structure Packaging**: Format and list creatives in a structured table for easy upload or documentation.
+
+---
+
+## 🧩 Example Prompts
+
+> “Update the ads using Ad ID: a:120225360698380727”
+
+---
+
+## 📌 Why Use This GPT?
+
+This GPT is ideal for:
+
+- Meta performance marketers looking to streamline workflow
+- Agencies managing high-volume creative testing
+- Brands that want consistency and scale in their ad naming & formatting
+- Teams collaborating across media, design, and content
+
+---
+
+## ✨ Built by
+
+**Lorena Lozano**  
+Ad Strategist | Creative Systems @ DAC  
+[LinkedIn](https://www.linkedin.com/in/lorenalozano/) • [Email](mailto:llozano@dacgroup.com)
+
+---
+
+## 💬 Feedback
+
+Spotted a bug or have a feature idea?  
+Open an issue or reach out directly — your input makes this tool better for everyone 💡
+
+---
+
+## 🔗 Try the GPT
+
+👉 [Launch Meta Ads Creative Updater](https://chatgpt.com/g/g-68489ee8cbfc8191bf350252a5fb352e-meta-ads-creative-updater)
+
+
